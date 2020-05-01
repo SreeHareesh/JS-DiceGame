@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(26, 22, 22);
+}
+h1{
+    margin: 30px;
+    font-family: cursive;
+    font-size: 5rem;
+    color: burlywood;
+    text-shadow: 6px 0 cyan;
+}
+h5 {
+    font-family: sans-serif;
+    color: burlywood;
+}
+p{
+    font-size: 2rem;
+    color: darkgrey;
+    font-family: monospace;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+img {
+    width: 80%;
+}
+.dice {
+    text-align: center;
+    display: inline-block;
+    padding: 0 4% ;
+}
+footer {
+    margin-top: 5%;
+    text-align: center;
+    color: #eeeeee;
+    font-family: serif;
+    padding: 0 3% 0;
+}
